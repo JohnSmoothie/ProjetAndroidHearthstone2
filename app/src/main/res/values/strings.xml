@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ProjetHearthstone</string>
+    <string name="activity_secondaire"></string>
+    <string name="app_name1">Résultats</string>
+    <string name="app_name2">Choix</string>
+</resources>

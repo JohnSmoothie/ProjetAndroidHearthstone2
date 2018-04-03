@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/mnt/ProjetAndroidHearthstone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62d40fe9bd52b557b1dd1b43e60241f330c9db4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_11f80f70eacb37119232ff056d31efcfcbce9254/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/7677db560018565bfc6357866d23f216e2fd9800/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d4d1617735aeeac5e5d75616b4145285830b4ba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/077b5c3f6760be8d221487dd561cb5d2b570c72f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75cd538f1554cffb11c7b25ab7ece7ba9e8f1761/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_83f08f82cbb5b1975ab2b7a6cbdfd9b64b70e366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/ProjetAndroidHearthstone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="316eeb5bebe5fdb64dc037d1c3489c12b3ec7f4c">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9c9eec9e1c88138774955de90cea489b8841dcd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/cbea65fbc4f5e7a7cf655e867ac96b831552f5f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea4e8f3a25c51ff534154bde73a6d6c6e032aed2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/1ebc9059492040b6d1315c5b2bf2612bf89e200f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_db4e5cf8b1014706b328a0aae831d41141254d59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.1.0_ce6f1f5939eb7f0ac636628d9489418380ac46a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/ba01b01249b0d9510eb965f956a84fdaaa3a51e5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_853091798211ec887ae89b1fccb30abc76064061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/85964b76c022a74f8e0622f4027c08e0e77a4ec4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0e93b764f0cb0a930d55e032a099247ae2ef92a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/62a80f03d2c92f2e3c57200363602f63ae01624b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f4368f2a3f33396f2cfa2dc93382298fcfa34ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/0bfd653ddd24267459c2759abb927e4b1873e342/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d0705e09ab30cb9dc16086d129febc41e622b42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/ProjetAndroidHearthstone/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="522dee262b6a7d23836e6440dad3e00a7e514011">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9c9eec9e1c88138774955de90cea489b8841dcd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/mnt/ProjetAndroidHearthstone/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_62d40fe9bd52b557b1dd1b43e60241f330c9db4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/9d3749f78fa3a0d5b98a5ed84f0369f807ea49da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac445d9b067efcc8ab1aaaf4ab6f7f448aca995a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/9beaa5253a22b457a01a17fa2c9d2c7a19fbe24b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_867e23ee328d0c41c38b71498f06423dfe0cd805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/e014482fd7592101fcf931e05a3db5ef41cef27c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cf93a2bb14f57763cec5c1308bc6c364dc8f8c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/8ef7993e7fdfa2595baa86fbec450c91006caf38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79829618c6ee10e02c62375c2b4d22380599f1c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.1.0_2c20374f2f323cc82292b317a8084af6d35af838/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/.android/build-cache/de351a98fe53d3537e013ff15ced54a7976bfe7f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bfd2f1ad4ab069fe7f4603480e059d64952237cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/bin/android-sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/mnt/ProjetAndroidHearthstone/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_69c6af479e26508f2726cf9abc812ed4a24d172c/classes.dex" />
+    </item>
+
+</items>
