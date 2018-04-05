@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("listen", String.valueOf(listEN.size()));
         String[] array1 = {"locales","classes","types","factions","races"};
-        getInfo(array1,spinners,getApplicationContext());
+        getInfo(array1,spinners,this);
 
 
         Log.e("listen", String.valueOf(listLANG.size()));
@@ -96,7 +96,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemSelected(AdapterView<?> parentView, View selectedItemView, int position, long id) {
                 String lang = (String) parentView.getItemAtPosition(position);
-                //Log.e("ITEM",lang);
+                Log.e("ITEM",lang);
 
                 spinnerLang.setSelection(position);
                 if(compteur>0){
@@ -108,14 +108,14 @@ public class MainActivity extends AppCompatActivity {
                     spinnerFaction.setAdapter(null);
 
                     spinnerRace.setAdapter(null);
-                    //listLANG.clear();
+                    listLANG.clear();
                     ArrayList<Spinner> spinners = new ArrayList<Spinner>();
                     spinners.add(spinnerClasse);
                     spinners.add(spinnerType);
                     spinners.add(spinnerFaction);
                     spinners.add(spinnerRace);
                     String[] array = {"classes","types","factions","races"};
-                    getInfo(array,spinners,getApplicationContext());
+                    getInfo(array,spinners,getBaseContext());
 
 
                 }
@@ -196,7 +196,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.e("langue getInfo",langue);
         RequestQueue queue = Volley.newRequestQueue(this);
-        final String url = "https://omgvamp-hearthstone-v1.p.mashape.com/info";
+        final String url = "https://omgvamp-hearthstone-v1.p.mashape.com/info?locale="+langue;
 
 
         JsonObjectRequest getRequest = new JsonObjectRequest(Request.Method.GET, url, null,
